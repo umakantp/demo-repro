@@ -1,6 +1,5 @@
 import React from 'react'
 import { configure } from '@storybook/react'
-import 'babel-polyfill'
 
 import '../src/styles/_index.scss'
 
